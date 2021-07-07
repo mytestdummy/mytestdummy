@@ -9,7 +9,16 @@
 <img src="https://img.shields.io/github/repo-size/mythemeway/mythemeway.github.io?label=BuildSize" />
 <a href="https://snyk.io/test/" title="Check it out" target="_blank"><img src="https://img.shields.io/snyk/vulnerabilities/github/mythemeway/dark-particle?logo=snyk&label=Snyk" /></a>
 
-### <a title="Visit the Lighthouse" target="_blank" href="https://github.com/GoogleChrome/lighthouse"><img src="https://raw.githubusercontent.com/GoogleChrome/lighthouse/master/assets/lighthouse-logo.svg" width="25"/></a> Average <a href="https://github.com/GoogleChrome/lighthouse" title="Explore this" target="_blank">Lighthouse</a> Results 
+### <a title="Check it out" target="_blank" href="https://observatory.mozilla.org/"><img width=25 src="https://img.shields.io/badge/-2A2E30.svg?logo=mozilla" /></a> <a href="https://observatory.mozilla.org/" title="Explore this" target="_blank">Mozilla Observatory</a> Result
+</div>
+<div align="center">
+<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=69 src="https://img.shields.io/mozilla-observatory/grade/mythemeway.github.io?label=" /></a><br>
+<b>Full Report: <a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false">Last One</a></b>
+<details><summary><b>Old Report Example (click to toggle)</b></summary>
+<img alt="Mozilla Observatory Report Example" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/mozilla_oberservatory_results.png" />
+</details>
+
+### <a title="Visit the Lighthouse" target="_blank" href="https://github.com/GoogleChrome/lighthouse"><img src="https://raw.githubusercontent.com/GoogleChrome/lighthouse/master/assets/lighthouse-logo.svg" width="25"/></a> Average <a href="https://github.com/GoogleChrome/lighthouse" title="Explore this" target="_blank">Lighthouse</a> Results
 
 <b>Desktop</b>
 
@@ -23,17 +32,7 @@
 <b>Full Reports:</b> <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/mobile/mythemeway_github_io_dark_particle_.html" title="Check it out" target="_blank">Main Page </a> | <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/mobile/mythemeway_github_io_dark_particle_projects_2020_10_31_project_1_html.html" title="Check it out" target="_blank">Project Page</a>
 </details><p>
 
-> Created with [Lighthouse-Badger](https://github.com/myactionway/lighthouse-badger-action "Get it") :badger: :tokyo_tower: :medal_military:
-
-### <a href="https://observatory.mozilla.org/" title="Explore this" target="_blank">Mozilla Observatory</a> Result
-</div>
-<div align="center">
-<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=250 src="https://img.shields.io/badge/Current_Grade:-grey.svg?logo=mozilla" /></a>
-<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=59 src="https://img.shields.io/mozilla-observatory/grade/mythemeway.github.io?label=" /></a><br>
-<b>Full Report: <a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false">Last One</a></b>
-<details><summary><b>Old Report Example (click to toggle)</b></summary>
-<img alt="Mozilla Observatory Report Example" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/mozilla_oberservatory_results.png" />
-</details>
+~ Created with [Lighthouse-Badger](https://github.com/myactionway/lighthouse-badger-action "Get it") :badger: :tokyo_tower: :medal_military: ~
 </div>
 
 ## Preview - [Demo](https://mythemeway.github.io/Dark-Particle/ "Go there")
