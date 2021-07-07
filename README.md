@@ -25,7 +25,7 @@
 > Created with [Lighthouse-Badger](https://github.com/myactionway/lighthouse-badger-action "Get it") :badger: :tokyo_tower: :medal_military:
 
 ### <a href="https://observatory.mozilla.org/" title="Explore this" target="_blank">Mozilla Observatory</a> Result:
-<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=800 src="https://img.shields.io/mozilla-observatory/grade/mythemeway.github.io?logo=mozilla&label=CurrentGrade" /></a><br>
+<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=900 src="https://img.shields.io/mozilla-observatory/grade/mythemeway.github.io?logo=mozilla&label=CurrentGrade" /></a><br>
 <b>Full Report: <a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false">Last One</a></b>
 <details><summary><b>Old Report Example (click to toggle)</b></summary>
 <img alt="Mozilla Observatory Report Example" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/mozilla_oberservatory_results.png" />
