@@ -1,4 +1,5 @@
-# Dark Particle Website Boilerplate
+<h1 align="center">Dark Particle Website Boilerplate</h1>
+<div align="center">
 <a href="https://github.com/mythemeway/Dark-Particle/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/mythemeway/Dark-Particle/CodeQL?logo=github&label=CodeQL" /></a>
 <a href="https://github.com/mythemeway/Dark-Particle/deployments/activity_log?environment=github-pages" title="Explore it" target="_blank"><img src="https://img.shields.io/github/deployments/mythemeway/Dark-Particle/github-pages?logo=github&label=State" /></a>
 <img src="https://img.shields.io/github/checks-status/mythemeway/Dark-Particle/master?logo=github&label=Checks" />
@@ -8,7 +9,7 @@
 <img src="https://img.shields.io/github/repo-size/mythemeway/mythemeway.github.io?label=BuildSize" />
 <a href="https://snyk.io/test/" title="Check it out" target="_blank"><img src="https://img.shields.io/snyk/vulnerabilities/github/mythemeway/dark-particle?logo=snyk&label=Snyk" /></a>
 
-### <a title="Visit the Lighthouse" target="_blank" href="https://github.com/GoogleChrome/lighthouse"><img src="https://raw.githubusercontent.com/GoogleChrome/lighthouse/master/assets/lighthouse-logo.svg" width="25"/></a> Average <a href="https://github.com/GoogleChrome/lighthouse" title="Explore this" target="_blank">Lighthouse</a> Results: 
+### <a title="Visit the Lighthouse" target="_blank" href="https://github.com/GoogleChrome/lighthouse"><img src="https://raw.githubusercontent.com/GoogleChrome/lighthouse/master/assets/lighthouse-logo.svg" width="25"/></a> Average <a href="https://github.com/GoogleChrome/lighthouse" title="Explore this" target="_blank">Lighthouse</a> Results 
 
 <b>Desktop</b>
 
@@ -24,12 +25,16 @@
 
 > Created with [Lighthouse-Badger](https://github.com/myactionway/lighthouse-badger-action "Get it") :badger: :tokyo_tower: :medal_military:
 
-### <a href="https://observatory.mozilla.org/" title="Explore this" target="_blank">Mozilla Observatory</a> Result:
-<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=900 src="https://img.shields.io/mozilla-observatory/grade/mythemeway.github.io?logo=mozilla&label=CurrentGrade" /></a><br>
+### <a href="https://observatory.mozilla.org/" title="Explore this" target="_blank">Mozilla Observatory</a> Result
+</div>
+<div align="center">
+<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=250 src="https://img.shields.io/badge/Current_Grade:-grey.svg?logo=mozilla" /></a>
+<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img width=59 src="https://img.shields.io/mozilla-observatory/grade/mythemeway.github.io?label=" /></a><br>
 <b>Full Report: <a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false">Last One</a></b>
 <details><summary><b>Old Report Example (click to toggle)</b></summary>
 <img alt="Mozilla Observatory Report Example" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/mozilla_oberservatory_results.png" />
 </details>
+</div>
 
 ## Preview - [Demo](https://mythemeway.github.io/Dark-Particle/ "Go there")
 
@@ -78,30 +83,31 @@ This dark theme website-boilerplate combines Webpack, Jekyll, Bootstrap and much
 
 <h3>Additional Feature Information</h3>
 <div align="center">
-	<a href="https://github.com/webpack/webpack" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack&repo=webpack&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/twbs/bootstrap" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=twbs&repo=bootstrap&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/jekyll/jekyll" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jekyll&repo=jekyll&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/webpack/webpack" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack&repo=webpack&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/twbs/bootstrap" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=twbs&repo=bootstrap&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/jekyll/jekyll" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jekyll&repo=jekyll&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<br>
 	<details><summary><b>[click to toggle]</b></summary>
-	<a href="https://github.com/jquery/jquery" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jquery&repo=jquery&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/jquery/jquery" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jquery&repo=jquery&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/gulpjs/gulp" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gulpjs&repo=gulp&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
 	<a href="https://github.com/npm/cli" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=npm&repo=cli&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905&show_owner=true" /></a><span> </span>
 	<a href="https://github.com/rubygems/rubygems" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rubygems&repo=rubygems&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
 	<a href="https://github.com/babel/babel" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=babel&repo=babel&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/gulpjs/gulp" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gulpjs&repo=gulp&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/FortAwesome/Font-Awesome" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FortAwesome&repo=Font-Awesome&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>	
 	<a href="https://github.com/devicons/devicon" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devicons&repo=devicon&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/JulianLaval/canvas-particle-network" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianLaval&repo=canvas-particle-network&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/tsuyoshiwada/sweet-scroll" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tsuyoshiwada&repo=sweet-scroll&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/terser/html-minifier-terser" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=terser&repo=html-minifier-terser&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/webpack-contrib/terser-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=terser-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/webpack-contrib/mini-css-extract-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=mini-css-extract-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/FortAwesome/Font-Awesome" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=FortAwesome&repo=Font-Awesome&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>	
+	<a href="https://github.com/JulianLaval/canvas-particle-network" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianLaval&repo=canvas-particle-network&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/wadackel/sweet-scroll" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wadackel&repo=sweet-scroll&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/terser/html-minifier-terser" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=terser&repo=html-minifier-terser&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/webpack-contrib/terser-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=terser-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/webpack-contrib/mini-css-extract-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=mini-css-extract-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
 	<h3 align="left"><a href="https://github.com/MyThemeWay/Dark-Particle/tree/master" title="Check it out" target="_blank">master branch</a></h3>
-	<a href="https://github.com/sass/dart-sass" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=dart-sass&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/webpack-contrib/image-minimizer-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=image-minimizer-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/webpack-contrib/css-minimizer-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=css-minimizer-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/sass/dart-sass" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=dart-sass&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/webpack-contrib/image-minimizer-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=image-minimizer-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/webpack-contrib/css-minimizer-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=webpack-contrib&repo=css-minimizer-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
 	<h3 align="left" ><a href="https://github.com/MyThemeWay/Dark-Particle/releases/tag/v1.0" title="Check it out" target="_blank">v1.0</a></h3>
-	<a href="https://github.com/sass/node-sass" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=node-sass&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/tcoopman/image-webpack-loader" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tcoopman&repo=image-webpack-loader&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	<a href="https://github.com/NMFR/optimize-css-assets-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NMFR&repo=optimize-css-assets-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/sass/node-sass" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=node-sass&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/tcoopman/image-webpack-loader" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tcoopman&repo=image-webpack-loader&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+	<a href="https://github.com/NMFR/optimize-css-assets-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NMFR&repo=optimize-css-assets-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
 	</details><p>
 </div>
 
