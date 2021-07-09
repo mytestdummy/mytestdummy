@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td valign="top" width="500px">
+<td align="center" valign="top" width="500px">
 <p></p>
 
 <a title="Check Mozilla Observatory out" target="_blank" href="https://observatory.mozilla.org/"><img width=210 src="https://img.shields.io/badge/Observatory-Grade-2A2E30.svg?logo=mozilla" /></a>
@@ -41,7 +41,7 @@
 <p></p>
 
 </td>
-<td valign="top" width="500px">
+<td align="center" valign="top" width="500px">
 <p></p>
 
 <a title="Check Snyk out" target="_blank" href="https://snyk.io/"><img width=210 src="https://img.shields.io/badge/Snyk-Vulnerabilities-2A2E30.svg?logo=snyk" /></a>
