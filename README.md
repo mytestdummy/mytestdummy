@@ -1,1 +1,1 @@
-test
+<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/Dark-Particle"><img preload height=35 src="https://img.shields.io/snyk/vulnerabilities/github/mythemeway/dark-particle?label=" data-canonical-src="https://snyk.io/test/github/mythemeway/dark-particle" /></a><br>
