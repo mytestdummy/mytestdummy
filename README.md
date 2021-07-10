@@ -47,7 +47,7 @@
 <a title="Check Snyk out" target="_blank" href="https://snyk.io/"><img width=210 src="https://img.shields.io/badge/Snyk-Vulnerabilities-2A2E30.svg?logo=snyk" /></a>
 
 <div>
-<a href="https://snyk.io/test/github/MyThemeWay/Dark-Particle"><img src="https://snyk.io/test/github/mythemeway/dark-particle/badge.svg" alt="Known Vulnerabilities"></a>
+<a href="https://snyk.io/test/github/MyThemeWay/Dark-Particle"><img src="https://snyk.io/test/github/mythemeway/dark-particle/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/mythemeway/dark-particle"></a>
 
 <a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/Dark-Particle"><img preload height=35 src="https://img.shields.io/snyk/vulnerabilities/github/mythemeway/dark-particle?label=" /></a><br>
 <b>Full Report: <a title="Check it out" target="_blank" href="https://snyk.io/test/github/MyThemeWay/Dark-Particle">Last&nbsp;One</a></b>
