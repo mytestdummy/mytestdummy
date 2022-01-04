@@ -7,50 +7,62 @@
 
 # <img src="https://avatars.githubusercontent.com/u/52597090?s=60&amp;v=4" alt="@MyThemeWay" size="25" height="25" width="25"></img> WebGL Canvas Headers :ghost:
 
+</div>
+
 <table>
-
-<tr>
-<td align="center" valign="top" width="500px">
-<p></p>
-
-https://user-images.githubusercontent.com/16251546/146669429-ae1dc399-cd7a-4c6e-9135-2c8a6e298df7.mp4
-
-<a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-malachite&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-
-</td>
-<td align="center" valign="top" width="500px">
+<td align="center" width="500px">
 <p></p>
 
 https://user-images.githubusercontent.com/16251546/146669386-89b3ad17-6424-47a3-9f23-f779eeb2db2d.mp4
 
-<a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-disks&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+<a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-disks&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a>
 
 </td>
-</tr>
+</table>
 
-<tr>
-<td align="center" valign= width="500px">
+<div align="right">
+<table>
+<td align="center" width="500px">
+<p></p>
+
+https://user-images.githubusercontent.com/16251546/146669429-ae1dc399-cd7a-4c6e-9135-2c8a6e298df7.mp4
+
+<a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-malachite&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
+
+</td>
+</table>
+</div>
+
+<table>
+<td align="center" width="500px">
 <p></p>
 
 https://user-images.githubusercontent.com/16251546/146669436-dff614aa-2ce5-46cc-8163-db73b2c2570e.mp4
 
-<a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-spiral&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+<a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-spiral&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a>
 
 </td>
-<td align="center" valign= width="500px">
+</table>
+
+<div align="right">
+<table>
+<td align="center" width="500px">
 <p></p>
 
 https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-8de4-3a6148481e20.mp4
 
-<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-blacksea&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
+<a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MyThemeWay&repo=mtw-canvas-blacksea&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
 
 </td>
-</tr>
 </table>
+</div>
+
+<div align="center">
 
 # See you :wave:
 <img alt="&nbsp;pending..." height=25 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/mytoolkit/Profile-Visitors-2A2E30.svg"/></img><br>
 <img height=24 src="https://badges.pufler.dev/visits/mythemeway/.github?label=&color=blue"/></img>
+
 </div>
 
 ### Note on protected brand names and logos
