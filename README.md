@@ -2,8 +2,8 @@
 <tr>
 	<th>Bundle Sizes</th>
 	<th><a href="https://github.com/MyThemeWay/mtw-canvas-malachite" title="Check it out" target="_blank">malachite</a></th>
-	<th width="100"><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Check it out" target="_blank"> disks</a></th>
-	<th width="100"><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Check it out" target="_blank">spiral</a></th>
+	<th><a href="https://github.com/MyThemeWay/mtw-canvas-disks" title="Check it out" target="_blank">__disks__</a></th>
+	<th><a href="https://github.com/MyThemeWay/mtw-canvas-spiral" title="Check it out" target="_blank">__spiral__</a></th>
 	<th><a href="https://github.com/MyThemeWay/mtw-canvas-blacksea" title="Check it out" target="_blank">blacksea</a></th>
 </tr>
 <tr align="center">
