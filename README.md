@@ -28,8 +28,6 @@
 </tr>
 </table>
 
-<br>
-
 # <img src="https://avatars.githubusercontent.com/u/80457499?s=60&amp;v=4" alt="@MyActionWay" size="25" height="25" width="25"/> Branch-Pruner :scissors:
 
 <table>
@@ -57,8 +55,6 @@
 </td>
 </tr>
 </table>
-
-<br>
 
 # See you :wave:
 </div>
